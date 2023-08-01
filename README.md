@@ -1,0 +1,3 @@
+# curl-detector
+
+This is a personal project aimed at combining my interest in computer vision with my passion for exercise. A common problem faced by many individuals in the gym is forgetting to keep track of how many repetitions of an exercise have been completed. Often, it is more helpful to not focus on the number of repetitions but instead on the quality of the movement. As such, in order to solve this problem (to some extent), this project leverages the capabilities of OpenCV and MediaPipe to count the number of repetitions for bicep curls. In the future, I plan on expanding this basic structure to more exercises, including push-ups and pull-ups.
